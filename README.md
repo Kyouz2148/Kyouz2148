@@ -48,15 +48,6 @@ Desenvolvedor **Full Stack & QA** de São Leopoldo, RS 🇧🇷 — construindo 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kyouz2148&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Kyouz2148" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyouz2148&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Kyouz2148" />
-</div>
-
----
-
 ## 📫 Onde me encontrar
 
 - 🌐 **Site:** [kyouz.com.br](https://kyouz.com.br)

@@ -1,8 +1,12 @@
+<p align="right">
+  🇧🇷 <strong>Português</strong> | <a href="./README.en.md">🇺🇸 English</a>
+</p>
+
 # Olá, eu sou o Alan Godois (Kyouz) 👋
 
 Desenvolvedor **Full Stack & QA** de São Leopoldo, RS 🇧🇷 — construindo sistemas web, aplicações desktop, integrações e mantendo meu próprio **Home Lab** em Docker.
 
-- 💻 Atuo como **Full Stack Developer & QA** na **Kayro Tech**, trabalhando no ecossistema de gestão comercial e PDV (backend Django, web, mobile e desktop com Electron + React), além de integrações com meios de pagamento, emissão fiscal (NFC-e), plataformas de delivery e APIs de mensageria.
+- 💻 Atuo como **Full Stack Developer & QA** na **Kayro Tech**, trabalhando no ecossistema de gestão comercial e PDV (backend Django, web, mobile e desktop com Electron + React), além de testes automatizados (**Pytest** e **Django TestCase**) e validações de integrações com meios de pagamento, emissão fiscal (NFC-e), plataformas de delivery e APIs de mensageria.
 - 🚀 Também desenvolvo projetos web e soluções sob medida como freelancer pela **Kyouz** ([kyouz.com.br](https://kyouz.com.br)).
 - 🐳 Entusiasta de **Self-Hosting & Home Lab**, rodando serviços em containers Docker com **CasaOS / ZimaOS** e criando ferramentas próprias para a comunidade.
 - 📚 Atualmente me aprofundando em **PostgreSQL** (CTEs, Window Functions, índices B-Tree e `EXPLAIN ANALYZE`), JSON avançado, extensões de navegador e automação de fluxos com IA e CLI.
@@ -34,7 +38,12 @@ Desenvolvedor **Full Stack & QA** de São Leopoldo, RS 🇧🇷 — construindo 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
-### DevOps, Infra & Observabilidade
+### QA & Testes
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Django TestCase](https://img.shields.io/badge/Django_TestCase-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### DevOps, Infra & Ferramentas
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CasaOS](https://img.shields.io/badge/CasaOS%20%2F%20ZimaOS-0080FF?style=for-the-badge)
@@ -43,17 +52,6 @@ Desenvolvedor **Full Stack & QA** de São Leopoldo, RS 🇧🇷 — construindo 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-
----
-
-## 🧪 Projetos, Home Lab & Experimentos
-
-| Área | O que venho construindo e explorando |
-| :--- | :--- |
-| **Ecossistema Comercial (Kayro Tech)** | Aplicações web, mobile e PDV desktop (Electron + React + Django), integrações TEF/Pix, NFC-e, delivery (iFood, 99Food, Rappi, Delivery Much) e WhatsApp Business API. |
-| **Self-Hosting & CasaOS** | Infraestrutura pessoal em Docker com CasaOS/ZimaOS, mantendo apps próprios e da comunidade como **Vertio Comprimir** (CasaOS-AppStore), **Downtify**, Jellyfin e Mealie. |
-| **Web & Freelance (Kyouz)** | Desenvolvimento de sistemas sob medida, interfaces modernas e projetos como **Canivete Digital**. |
-| **Ferramentas & Automação** | Estudos de extensões para navegadores (Chrome, Edge, Firefox), edição/automação em CLI (`ffmpeg`, `auto-editor`, Remotion) e orquestração de modelos de IA. |
 
 ---
 

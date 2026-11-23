@@ -46,17 +46,6 @@ Desenvolvedor **Full Stack & QA** de São Leopoldo, RS 🇧🇷 — construindo 
 
 ---
 
-## 🧪 Projetos, Home Lab & Experimentos
-
-| Área | O que venho construindo e explorando |
-| :--- | :--- |
-| **Ecossistema Comercial (Kayro Tech)** | Aplicações web, mobile e PDV desktop (Electron + React + Django), integrações TEF/Pix, NFC-e, delivery (iFood, 99Food, Rappi, Delivery Much) e WhatsApp Business API. |
-| **Self-Hosting & CasaOS** | Infraestrutura pessoal em Docker com CasaOS/ZimaOS, mantendo apps próprios e da comunidade como **Vertio Comprimir** (CasaOS-AppStore), **Downtify**, Jellyfin e Mealie. |
-| **Web & Freelance (Kyouz)** | Desenvolvimento de sistemas sob medida, interfaces modernas e projetos como **Canivete Digital**. |
-| **Ferramentas & Automação** | Estudos de extensões para navegadores (Chrome, Edge, Firefox), edição/automação em CLI (`ffmpeg`, `auto-editor`, Remotion) e orquestração de modelos de IA. |
-
----
-
 ## 📫 Onde me encontrar
 
 - 📧 **Email:** [alangodois@kyouz.com.br](mailto:alangodois@kyouz.com.br)

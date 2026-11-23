@@ -52,12 +52,14 @@ Desenvolvedor **Full Stack & QA** de São Leopoldo, RS 🇧🇷 — construindo 
 | :--- | :--- |
 | **Ecossistema Comercial (Kayro Tech)** | Aplicações web, mobile e PDV desktop (Electron + React + Django), integrações TEF/Pix, NFC-e, delivery (iFood, 99Food, Rappi, Delivery Much) e WhatsApp Business API. |
 | **Self-Hosting & CasaOS** | Infraestrutura pessoal em Docker com CasaOS/ZimaOS, mantendo apps próprios e da comunidade como **Vertio Comprimir** (CasaOS-AppStore), **Downtify**, Jellyfin e Mealie. |
-| **Web & Freelance (Kyouz)** | Desenvolvimento de sistemas sob medida, interfaces modernas e projetos como **obra-sl**. |
+| **Web & Freelance (Kyouz)** | Desenvolvimento de sistemas sob medida, interfaces modernas e projetos como **Canivete Digital**. |
 | **Ferramentas & Automação** | Estudos de extensões para navegadores (Chrome, Edge, Firefox), edição/automação em CLI (`ffmpeg`, `auto-editor`, Remotion) e orquestração de modelos de IA. |
 
 ---
 
 ## 📫 Onde me encontrar
 
-- 🌐 **Site:** [kyouz.com.br](https://kyouz.com.br)
-- 🐙 **GitHub:** [@Kyouz2148](https://github.com/Kyouz2148)
+- 📧 **Email:** [alangodois@kyouz.com.br](mailto:alangodois@kyouz.com.br)
+- 🌐 **Site:** [kyouz.com.br](https://kyouz.com.br/)
+- 💼 **LinkedIn:** [in/alan-godois-72b462187](https://www.linkedin.com/in/alan-godois-72b462187)
+- 📸 **Instagram:** [alan_godois](https://www.instagram.com/alan_godois/)
